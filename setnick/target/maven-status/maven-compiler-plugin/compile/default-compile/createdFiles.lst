@@ -1,0 +1,3 @@
+br\com\sicro\setnick\listeners\setnicklistener.class
+br\com\sicro\setnick\Main.class
+br\com\sicro\setnick\command\setnickcommand.class

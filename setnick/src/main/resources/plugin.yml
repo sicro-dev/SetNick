@@ -1,0 +1,6 @@
+name: setnick
+version: '${project.version}'
+main: br.com.sicro.setnick.Main
+commands:
+  nick:
+    description: Trocador de Nicks.
